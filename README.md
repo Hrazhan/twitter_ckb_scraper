@@ -1,6 +1,6 @@
 # Twitter Central Kurdish Scraper
 
-[![Twitter Central Kurdish Dataset](https://github.com/Hrazhan/twitter_ckb_scraper/actions/workflows/scrape.yml/badge.svg)](https://github.com/Hrazhan/twiiter_ckb_scraper/actions/workflows/scrape.yml)
+[![Twitter Central Kurdish Dataset](https://github.com/Hrazhan/twitter_ckb_scraper/actions/workflows/scrape.yml/badge.svg)](https://github.com/Hrazhan/twitter_ckb_scraper/actions/workflows/scrape.yml)
 
 This repository contains a set of scripts and configurations for scraping Central Kurdish tweets on a daily basis using Github Actions. Central Kurdish, also known as Sorani, is a Kurdish dialect spoken in Iraq and parts of Iran.
 
